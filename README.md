@@ -1,1 +1,1 @@
-## OCR sample api ##
+## OCR flask api ##
