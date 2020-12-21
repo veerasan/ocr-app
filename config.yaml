@@ -1,0 +1,8 @@
+---
+AZURE_STORAGE_CONNECTION_STRING : "DefaultEndpointsProtocol=https;AccountName=ocrstg01;AccountKey=bNC7WFuF9Gx19JwhuIkvSvHYXVUgwC0AnGHjJZlu119vnIr3ToGbmD8NHU/YW3c2UK1YiWcqCiqDpXJQVWOwXw==;EndpointSuffix=core.windows.net"
+IMG_CONTAINER : "ocrcontainer01"
+#IMG_CONTAINER : "quickstart97743549-5745-409f-987b-b1a42822120f"
+RESULT_CONTAINER : "ocrresult01"
+IMG_BACKUP_CONTAINER : "ocrimagebackup01"
+TEMP_FILENAME : "temp.png"
+
